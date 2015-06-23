@@ -1,3 +1,5 @@
+This repo holds the show notes for my [Ruby Ireland Talk](http://www.meetup.com/rubyireland/events/223151310/) on my experiences both as an interviewer and candidate.
+
 
 ## US VISAs
 
